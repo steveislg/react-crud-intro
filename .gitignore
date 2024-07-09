@@ -5,3 +5,4 @@ src/TodoSearch/Inveb.code-workspace
 .vscode
 
 /build  
+/node_modules
